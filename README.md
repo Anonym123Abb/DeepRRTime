@@ -35,7 +35,7 @@
 </p>
 
 
-## Figure 1&2 - Regularizer Coeff:
+## Figure 1&2 - Regularizer Coeff Ablation:
 For better visualization please seperately open corresponding figures in the files.
 ### Ettm2:
 <p align="center">
@@ -45,4 +45,16 @@ For better visualization please seperately open corresponding figures in the fil
 ### Exchange:
 <p align="center">
   <img src="Figure 2 - Regularizer coeff for Exchange.png" width="200%" />
+</p>
+
+## Figure 3&4 - Regularizer Coeff Ablation with 50% Masked Lookbach:
+For better visualization please seperately open corresponding figures in the files.
+### Ettm2:
+<p align="center">
+  <img src="Figure 3 - Regularizer coeff Masked Ettm2.png" width="200%" />
+</p>
+
+### Exchange:
+<p align="center">
+  <img src="Figure 4 - Regularizer coeff Masked Exchange.png" width="200%" />
 </p>
